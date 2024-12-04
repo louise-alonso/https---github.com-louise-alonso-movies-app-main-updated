@@ -13,7 +13,7 @@
     }
 
     &.expanded {
-        grid-column: span 2; /* Ocupa mais espaço quando expandido */
+        grid-column: span 2; 
         grid-row: span 2;
     }
 
